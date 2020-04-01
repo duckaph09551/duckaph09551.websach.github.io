@@ -1,0 +1,273 @@
+.detail {
+    background: #ffffff;
+}
+
+.detail h3 {
+    font-size: 18px;
+    color: #333333;
+    font-family: "roboto";
+    margin: 0;
+    padding: 16px 21px;
+}
+
+.detail .detail-book ul {
+    padding: 0;
+    margin: 0;
+    padding-bottom: 16px;
+}
+
+i.fa.fa-circle {
+    padding-right: 5px;
+    font-size: 5px;
+    color: #777777;
+}
+
+span {
+    font-size: 13px;
+    color: #777777;
+}
+
+li.col-md-6.col-sm-12 {
+    color: #333333;
+    font-size: 13px;
+    padding: 5px 21px;
+}
+
+.related-products.promotion {
+    background: #ffffff;
+}
+
+h3.title {
+    margin: 0;
+    padding: 16px 21px;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 18px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.customer-comment h3.titlee {
+    font-size: 22px;
+    color: #333333;
+    font-family: "roboto";
+    margin: 0;
+    text-align: center;
+    padding: 35px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.customer-comment .evaluatee {
+    background: #ffffff;
+    padding: 0;
+    margin: 0;
+    margin-left: 14px;
+}
+
+.share-comment {
+    background: #ffffff;
+    margin-left: 4%;
+}
+
+.evaluatee h3 {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.review {
+    justify-content: center;
+}
+
+.evaluatee {
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+.share-comment h3 {
+    text-align: center;
+    padding: 26px;
+}
+
+.share-comment button {
+    margin-left: 10%;
+    background-color: #ff7800;
+    border: none;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "roboto";
+    color: #ffffff;
+    padding: 5px 70px;
+    margin-bottom: 20px;
+}
+
+.detail-book-thumb img {
+    padding: 44px 23px;
+}
+
+.detail-book-info .book-title p {
+    font-family: "roboto";
+    font-size: 20px;
+    color: #333333;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    margin: 0;
+}
+
+.evaluate {
+    position: relative;
+}
+
+.review {
+    position: absolute;
+    left: 38%;
+    top: 65%;
+}
+
+.reviews {
+    position: absolute;
+    left: 60%;
+    top: 14%;
+}
+
+.info-book ul {
+    padding: 0;
+    margin: 0;
+    border-bottom: 1px solid #3333;
+}
+
+.info-book ul li {
+    font-size: 13px;
+    color: #333333;
+    font-family: "roboto";
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.info-book ul li span {
+    color: #006cc6;
+}
+
+.box-desc h3 {
+    font-size: 13px;
+    font-family: "roboto";
+    color: #333333;
+    text-transform: uppercase;
+    padding: 17px 0px;
+    margin: 0;
+}
+
+.box-desc-info p {
+    color: #777777;
+    font-size: 13px;
+    font-family: "roboto";
+    margin: 0;
+}
+
+.show {
+    display: flex;
+    justify-content: center;
+}
+
+.show button {
+    color: #333333;
+    font-size: 13px;
+    background-color: #fa7134;
+    margin: 25px;
+}
+
+.unit-price {
+    display: flex;
+    justify-content: center;
+}
+
+.unit-price button {
+    color: #333333;
+    font-size: 13px;
+    background-color: #fa7134;
+    margin: 25px;
+}
+
+.info-price p {
+    font-size: 13px;
+    color: #333333;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+p.infor-price {
+    padding-left: 70px;
+}
+
+i.fa.fa-minus {
+    padding: 8px;
+    border: 1px solid #3333;
+}
+
+i.fa.fa-plus {
+    padding: 8px;
+    border: 1px solid #3333;
+}
+
+.buy-now,
+.add-products,
+.add-products-love {
+    background-color: #fa7134;
+    padding: 10px;
+}
+
+.buy-now,
+.add-products,
+.add-products-love a img {
+    padding-right: 20px;
+}
+
+.buy-now a {
+    color: #ffffff;
+    font-size: 13px;
+    font-family: "roboto";
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+}
+
+.add-products a {
+    color: #ffffff;
+    font-size: 13px;
+    font-family: "roboto";
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+}
+
+.add-products-love a {
+    color: #ffffff;
+    font-size: 13px;
+    font-family: "roboto";
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+}
+
+.sum-price p.title-price {
+    font-weight: bold;
+    color: #333333;
+    font-size: 16px;
+    font-family: "roboto";
+    margin: 0;
+}
+
+.sum-price p.infor-price {
+    font-weight: bold;
+    color: #333333;
+    font-size: 16px;
+    font-family: "roboto";
+    margin: 0;
+}
+
+.sum-price span {
+    font-size: 13px;
+    color: #ff4646;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}

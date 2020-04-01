@@ -1,0 +1,259 @@
+body {
+    background-color: #ededed;
+}
+
+img.images-responsive {
+    max-width: 100%;
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: white;
+}
+
+button.navbar-toggler {
+    background: white;
+}
+
+form {
+    margin-top: 5px;
+}
+
+button.navbar-toggler {
+    margin: 10px;
+}
+
+.header-top {
+    background-color: #544b4b;
+}
+
+.header-top .collapse ul li {
+    margin-right: 30px;
+}
+
+.header-top .collapse ul li a.nav-link {
+    font-size: 13px;
+    color: #ffffff;
+    font-family: 'Roboto';
+}
+
+.header-between {
+    padding-top: 14px;
+    padding-bottom: 14px;
+    background: #645858;
+}
+
+.header-between button {
+    background-color: #fa7134;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.phone .number span {
+    font-size: 16px;
+    color: white;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.phone .thumb img {
+    margin-right: 3px;
+}
+
+.header-bottom {
+    background-color: #fff6f6;
+}
+
+.header-bottom .collapse ul li a.nav-link {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Roboto';
+    color: #333333;
+}
+
+nav.navbar.navbar-expand-lg {
+    padding: 0;
+    margin: 0;
+}
+
+ul.navbar-nav.d-flex.justify-content-end {
+    position: absolute;
+    right: 0;
+    top: 5px;
+}
+
+a.list-group-item.title {
+    font-weight: bold;
+    font-size: 18px;
+    color: #333333;
+    font-family: 'Roboto';
+}
+
+a.list-group-item {
+    font-size: 14px;
+    color: #333333;
+    font-family: 'Roboto';
+}
+
+a.list-group-item:hover {
+    transition: all 0.4s;
+    background: linear-gradient(16deg, #FF9800, transparent);
+    font-weight: bold;
+}
+
+.bestseller {
+    background: #ffffff;
+}
+
+.slider-item {
+    padding: 10px;
+}
+
+.bestseller h3 {
+    padding: 14px 22px;
+    border-bottom: 1px solid #e5e5e5;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Roboto';
+}
+
+.title-book p {
+    font-size: 14px;
+    padding: 10px;
+    margin: 0;
+}
+
+.author span {
+    font-size: 13px;
+    font-weight: bold;
+    font-style: italic;
+    color: #666666;
+    font-family: 'Roboto';
+    padding: 10px;
+}
+
+.evaluate.d-flex,
+.price-book {
+    margin: 10px;
+}
+
+.price-book span {
+    font-weight: bold;
+    font-size: 16px;
+    font-family: 'Roboto';
+}
+
+.bottom-add-cart button {
+    border: none;
+    background-color: #ff7900;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: 'Roboto';
+    padding: 10px 33px;
+}
+
+button.owl-prev {
+    position: absolute;
+    top: 30%;
+    left: 10px;
+}
+
+.owl-nav .owl-prev span {
+    color: #848282;
+    font-size: 60px;
+}
+
+button.owl-next {
+    position: absolute;
+    top: 30%;
+    right: 10px;
+}
+
+.owl-nav .owl-next span {
+    color: #848282;
+    font-size: 60px;
+}
+
+.footer {
+    background-color: #424242;
+}
+
+.footer form {
+    padding-top: 24px;
+    margin-bottom: 60px;
+}
+
+.footer input {
+    font-size: 9px;
+    font-weight: bold;
+    font-family: 'Roboto';
+    color: #373737;
+    padding: 10px 20px;
+    background-color: #f8eeee;
+    margin-right: 32px;
+}
+
+.footer button {
+    background-color: #f8eeee;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: 'Roboto';
+    color: #373737;
+    padding: 10px 20px;
+}
+
+.footer-bottom {
+    padding-bottom: 60px;
+}
+
+.footer-bottom span {
+    border: #f7941e solid 1px;
+    display: block;
+    width: 30%;
+    margin-bottom: 15px;
+}
+
+.footer-bottom h3 {
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.footer-bottom p {
+    font-size: 14px;
+    color: #ffffff;
+    line-height: 30px;
+    font-style: italic;
+}
+
+img.img-responsive {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.license {
+    background-color: #6e6666;
+    display: block;
+}
+
+.license .text {
+    display: block;
+    margin: 0px auto;
+}
+
+.license span {
+    font-size: 14px;
+    line-height: 30px;
+    color: #fff5f5;
+    font-weight: lighter;
+    padding: 6px;
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    text-align: center;
+}
+
+.evaluate.d-flex {
+    width: 15px;
+}

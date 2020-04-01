@@ -1,0 +1,112 @@
+@media screen and (min-width: 320px) and (max-width:480px) {
+    .phone {
+        margin-top: 10px;
+    }
+    form.form-inline {
+        margin-top: 10px;
+    }
+    ul.navbar-nav.mr-auto.category {
+        display: block;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        color: #ffffff;
+        font-family: 'Roboto';
+    }
+    i.fa.fa-cart-plus {
+        font-size: 34px;
+        color: white;
+    }
+    .evaluatee h3 {
+        padding-bottom: 30px;
+    }
+    ul.navbar-nav.mr-auto {
+        margin-left: 15px;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width:576px) {
+    .phone {
+        position: absolute;
+        top: 10px;
+        left: 61%;
+        width: 35%;
+    }
+    .header-between {
+        position: relative;
+    }
+    form.form-inline {
+        margin-top: 20px;
+    }
+    ul.navbar-nav.mr-auto.category {
+        display: block;
+    }
+    i.fa.fa-cart-plus {
+        font-size: 34px;
+        color: white;
+    }
+    ul.navbar-nav.mr-auto {
+        margin-left: 15px;
+    }
+}
+
+@media screen and (min-width: 576px) and (max-width:768px) {
+    .phone {
+        position: absolute;
+        top: 10px;
+        left: 61%;
+        width: 35%;
+    }
+    .header-between {
+        position: relative;
+    }
+    form.form-inline {
+        margin-top: 20px;
+    }
+    i.fa.fa-cart-plus {
+        font-size: 34px;
+        color: white;
+    }
+    ul.navbar-nav.mr-auto {
+        margin-left: 15px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width: 800px) {
+    form.form-inline {
+        margin: 0;
+        padding: 0;
+        width: 92%;
+        margin-top: 5px;
+    }
+    .phone.col-md-2.d-flex {
+        margin-left: 13%;
+    }
+    i.fa.fa-cart-plus {
+        font-size: 34px;
+        color: white;
+    }
+}
+
+@media screen and (min-width:800px) and (max-width: 992px) {
+    i.fa.fa-cart-plus {
+        font-size: 34px;
+        color: white;
+    }
+    .phone.col-md-2.d-flex {
+        margin: 0;
+        padding: 0px;
+    }
+    form.form-inline {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:992px) {
+    ul.navbar-nav.mr-auto.category {
+        display: none;
+    }
+    .cart-infomation {
+        display: none;
+    }
+}
